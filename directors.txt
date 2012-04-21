@@ -1,0 +1,62 @@
+Steven Spielberg, 100
+Peter Jackson, 99
+Martin Scorsese, 98
+Christopher Nolan, 97
+Steven Soderbergh, 96
+Ridley Scott, 95
+Quentin Tarantino, 94
+Michael Mann, 93
+James Cameron, 92
+Joel and Ethan Coen, 91
+Guillermo del Toro, 90
+David Fincher, 80
+Tim Burton, 79
+Judd Apatow, 78
+Sam Raimi, 77
+Zack Snyder, 76
+Darren Aronofsky, 75
+Danny Boyle, 74
+Clint Eastwood, 73
+Ron Howard, 72
+Ang Lee, 71
+Paul Thomas Anderson, 70
+Paul Greengrass, 69
+Pedro Almodovar, 60
+Jon Favreau , 59
+Roberto Rodrigues, 58
+Wes Anderson, 57
+Paul Verehoeven, 56
+Robert Zemeckis, 55
+George Lucas, 54
+Chris Columbus, 53
+Michael Bay, 52
+Gore Verbinski, 51
+Pedro Almodóvar, 50
+Woody Allen, 49
+David Lynch, 48
+Terrence Malick, 47
+Brian De Palma, 46
+Spike Lee, 45
+David Yates, 44
+Christopher Nolan , 43
+Richard Linklater, 42
+Sofia Coppola, 41
+Stephen Frears, 40
+Andrew Adamson, 39
+Joe Wright, 38
+Guy Richie, 37
+JJ Abrams, 36
+Phillip Noyce, 35
+Wes Anderson , 34
+Roland Emmerich, 33
+M. Night Shyamalan, 32
+Marcus Nispel, 20
+Dennis Dugan, 19
+Steven Brill, 18
+Dominic Sena, 17
+John Whitesell, 16
+Renny Harlin, 15
+Brian Levant, 14
+Uwe Boll, 13
+Jason Friedberg and Aaron Seltzer, 12
+Tommy Wiseau, 11
