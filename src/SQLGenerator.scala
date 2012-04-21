@@ -1,5 +1,7 @@
 import scala.io.Source
-
+/**
+ * class to build sql inserts statements
+ */
 object SQLGenerator {
   
   def main(args: Array[String]) {
